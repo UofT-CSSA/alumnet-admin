@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Ant Design UI
 
-To learn more, go here: [https://ant.design/components/overview/](https://ant.design/components/overview/).
+To learn more, go here: [https://ant.design/components/overview/](https://ant.design/components/overview/)
